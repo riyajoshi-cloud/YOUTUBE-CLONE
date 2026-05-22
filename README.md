@@ -9,5 +9,5 @@ A modern and responsive YouTube homepage clone built using HTML and CSS. This pr
 5. Header with search functionality design
 6. Organized CSS structure
 <br>
-The project output and final UI preview are showcased in the preview section below.
+The project output and final UI preview are showcased in the preview section.
 
