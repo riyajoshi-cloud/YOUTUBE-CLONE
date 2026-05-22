@@ -3,17 +3,18 @@ A modern and responsive YouTube homepage clone built using HTML and CSS. This pr
 <br>
 <br>
 Features : 
-1.Responsive layout for different screen sizes
 <br>
-2.YouTube-inspired modern UI
+1. Responsive layout for different screen sizes
 <br>
-3.Sidebar navigation menu
+2. YouTube-inspired modern UI
 <br>
-4.Video thumbnail grid
+3. Sidebar navigation menu
 <br>
-5.Header with search functionality design
+4. Video thumbnail grid
 <br>
-6.Organized CSS structure
+5. Header with search functionality design
+<br>
+6. Organized CSS structure
 <br>
 The project output and final UI preview are showcased in the preview section below.
 
