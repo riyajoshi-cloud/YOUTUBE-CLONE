@@ -1,0 +1,1 @@
+The folder "channel-pictures" contains channel pictures that I used in the project.
