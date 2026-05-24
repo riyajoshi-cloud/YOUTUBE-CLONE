@@ -1,1 +1,1 @@
-
+Here, Styles represents different css styles and I have separated them different in different files for easiness.
